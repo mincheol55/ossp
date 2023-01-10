@@ -6,6 +6,8 @@
 3. 알고 보니 데이터셋 엑셀파일에 이상한 값 한 줄이 멋대로 추가되어서 수정하였음.
 4. 수정으로 안될 정도로 값이 이상해서 아예 삭제 후 재업로드하였음.
 5. 원본 소스코드 테스트 값 양호하게 나옴.
+6. 사용하는 라이브러리 간단 설명 주석.
+7. 목차 및 사용 용어 일부 한글 번역.
 
 원본 소스코드 링크
 LINK : https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7?scriptVersionId=115638394
