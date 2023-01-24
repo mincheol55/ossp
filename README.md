@@ -15,14 +15,17 @@
 12. 그래프 요소 이름 추가변경
 13. 성별에 따른 심장병 유무 시각화 그래프 추가
 
+
 참고사항
 1.데이터셋과 소스코드는 C드라이브의 workplace 안에 두고 진행하였음.
+
 
 원본 소스코드 링크 
 
 LINK : https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7?scriptVersionId=115638394
 
 원본 소스코드 라이센스
+
 Apache License
 
 내 깃허브 링크
@@ -30,4 +33,5 @@ Apache License
 LINK : https://github.com/mincheol55/ossp
 
 내 소스코드 라이센스
+
 Apache License
