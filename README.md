@@ -20,3 +20,10 @@
 
 원본 소스코드 링크 
 LINK : https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7?scriptVersionId=115638394
+원본 소스코드 라이센스
+Apache License
+
+내 깃허브 링크
+LINK : https://github.com/mincheol55/ossp
+내 소스코드 라이센스
+Apache License
